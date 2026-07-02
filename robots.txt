@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://friendly-creponne-2eba0c.netlify.app/sitemap.xml
